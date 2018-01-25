@@ -2,5 +2,6 @@
 IPS_working_script
 
 Hey Guys, Try this code for IPS to run locally. 
-On more issue please report to 
+On any more issues please report here or to 
 https://github.com/mui-icbi/Immunophenogram
+ 
