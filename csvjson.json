@@ -1,0 +1,1185 @@
+[
+  {
+    "PubID": "C16",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 19
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 11
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 34
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 14
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 13
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 4
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 17
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 7
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 10
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 26
+  },
+  {
+    "PubID": "C16",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 4
+  },
+  {
+    "PubID": "C7",
+    "SampleType": "Both",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 60
+  },
+  {
+    "PubID": "C7",
+    "SampleType": "Both",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 12
+  },
+  {
+    "PubID": "C7",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 8
+  },
+  {
+    "PubID": "C7",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C7",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 6
+  },
+  {
+    "PubID": "C7",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 29
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 7
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 35
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 7
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C1",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 57
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 24
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 61
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 32
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 13
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 32
+  },
+  {
+    "PubID": "C6",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 7
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 58
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 14
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 58
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 20
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 6
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 4
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 21
+  },
+  {
+    "PubID": "C10",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 10
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 18
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 28
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 11
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 9
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 12
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 7
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 4
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 6
+  },
+  {
+    "PubID": "C13",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C8",
+    "SampleType": "Both",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 32
+  },
+  {
+    "PubID": "C8",
+    "SampleType": "Both",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C8",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 6
+  },
+  {
+    "PubID": "C8",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 4
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 16
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 21
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 13
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 15
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 5
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 39
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 10
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 54
+  },
+  {
+    "PubID": "C12",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 14
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 56
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 14
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 47
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 19
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 5
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 5
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 10
+  },
+  {
+    "PubID": "C15",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 16
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 28
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 11
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 34
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 13
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 9
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 5
+  },
+  {
+    "PubID": "C4",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 55
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 5
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 51
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 11
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 8
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 7
+  },
+  {
+    "PubID": "C2",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 8
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 54
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 14
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 1
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C3",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 13
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 37
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 5
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 11
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 10
+  },
+  {
+    "PubID": "C14",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 3
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 44
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 12
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 32
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 4
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 9
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 7
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 12
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 6
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C11",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 0
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 55
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Both",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 7
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 37
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Both",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 5
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 10
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 16
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 6
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 11
+  },
+  {
+    "PubID": "C5",
+    "SampleType": "Primary Tumor",
+    "Mutation Expression": "Not Expressed",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 4
+  },
+  {
+    "PubID": "C9",
+    "SampleType": "Both",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 2
+  },
+  {
+    "PubID": "C9",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 500nM",
+    "NeoantigensLoad": 8
+  },
+  {
+    "PubID": "C9",
+    "SampleType": "Metastasis",
+    "Mutation Expression": "Data not available",
+    "IC50": "IC50 less than 50nM",
+    "NeoantigensLoad": 1
+  }
+]
